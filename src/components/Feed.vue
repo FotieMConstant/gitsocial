@@ -4,6 +4,7 @@
       <div class="text-subtitle-1">
         KRTirtho pushed to
         <a href="#">FotieMConstant/revind</a>
+        <span class="caption text--disabled ml-2">38 minutes ago</span>
       </div>
       <div class="text-subtitle-2 font-weight-regular caption">
         2 commits to
