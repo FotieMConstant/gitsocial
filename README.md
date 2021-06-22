@@ -1,17 +1,13 @@
-# <center>gitsocial</center>
+# <div align="center">gitsocial</div>
 
-##### <center>Taking GitHub to the moon 🚀</center>
+#### <div align="center">Taking GitHub to the moon 🚀</div>
 
-<center>
-  [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
-  ·
-  [Community](https://community)
-  ·
-  [Documentation](https://documentation)
-</center>
+<div align="center">https://gitsocial.vercel.app/</div>
 
-<center>https://gitsocial.vercel.app/</center>
- <center>Browse GitHub like you are browsing Facebook. Turning GitHub into a social network for developers.</center>
+<div align="center">Browse GitHub like you are browsing Facebook. Turning GitHub into a social network for developers.</div>
+
+
+[CODE OF CONDUCT](CODE_OF_CONDUCT.md) · [Community](https://community) · [Documentation](https://documentation)
 
 <!-- Not sure what this does, can we delete it or update it. -->
 ## Structure
